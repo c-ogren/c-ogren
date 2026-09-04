@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @c-ogren
-- 👀 I’m interested in software development, full-stack engineering, AI integration, triathlon training, and woodworking
-- 🌱 I’m currently learning advanced TypeScript patterns, building scalable Node.js backends, and exploring AI-first applications
-- 💞️ I’m looking to collaborate on open-source projects, AI integrations, or tools that improve developer productivity
-- 📫 How to reach me: GitHub
-
-<!---
-c-ogren/c-ogren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @c-ogren
+👀 I’m interested in full-stack engineering, systems programming, developer tooling, Linux, triathlon, and woodworking
+🦀 I’m currently working primarily in Rust and TypeScript, building scalable backends, real-time systems, and cross-platform applications
+🏊 I’m building **Chronaris**, a modern swim meet management and live results platform
+🛠️ I enjoy working close to the stack—from databases, APIs, networking, and infrastructure to React frontends and desktop/mobile apps
+💞️ I’m interested in collaborating on open-source Rust projects, developer tools, distributed systems, and interesting full-stack applications
+📫 How to reach me: GitHub
