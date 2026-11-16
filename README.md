@@ -1,5 +1,7 @@
 # Hey, I'm Curtis 👋
 
+<img align="right" width="240" src="face.svg" alt="ASCII-art portrait of Curtis">
+
 Software engineer based in the Bay Area.
 
 I like building reliable software, learning how things work under the hood,
